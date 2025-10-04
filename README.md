@@ -9,11 +9,11 @@ Built using **React**, **JavaScript (ES6)**, **HTML5**, and **CSS3**.
 
 | 🔑 LogIn 1 | 🔑 LogIn 2 |
 |------------|------------|
-| ![LogIn 1](imgg/lrs1.png) | ![LogIn 2](imgg/lrs2.png) |
+| ![LogIn 1](lrs1.png) | ![LogIn 2](lrs2.png) |
 
 | 📝 Register 1 | 📝 Register 2 |
 |---------------|---------------|
-| ![Register 1](imgg/lrs3.png) | ![Register 2](imgg/lrs4.png) |
+| ![Register 1](lrs3.png) | ![Register 2](lrs4.png) |
 
 ---
 
@@ -26,12 +26,17 @@ Built using **React**, **JavaScript (ES6)**, **HTML5**, and **CSS3**.
 
 ---
 
-## ⚙️ Installation & Run
+## ⚛️ React Installation & Application Setup
 
+## 📦 Installation
+
+
+Install the node modules
 ```bash
 npm install
 ```
 
+Launch your React project in your browser
 ```bash
 npm run dev
 ```
