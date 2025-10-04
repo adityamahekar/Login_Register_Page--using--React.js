@@ -9,7 +9,7 @@ Built using **React**, **JavaScript (ES6)**, **HTML5**, and **CSS3**.
 
 | 🔑 LogIn 1 | 🔑 LogIn 2 |
 |------------|------------|
-| ![LogIn 1](lrs1.png) | ![LogIn 2](lrs2.png) |
+| ![LogIn 2](lrs2.png) |  ![LogIn 1](lrs1.png) |
 
 | 📝 Register 1 | 📝 Register 2 |
 |---------------|---------------|
