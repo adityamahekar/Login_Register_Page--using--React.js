@@ -27,7 +27,6 @@ Built using **React**, **JavaScript (ES6)**, **HTML5**, and **CSS3**.
 ---
 
 ## ⚛️ React Installation & Application Setup
-
 ## 📦 Installation
 
 
@@ -40,3 +39,4 @@ Launch your React project in your browser
 ```bash
 npm run dev
 ```
+ Open [http://localhost:3000](http://localhost:3000)
